@@ -1,0 +1,11 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+bin/
+.idea/
+.settings/
+.project
+.classpath
+out/production/classes/com/objectfrontier/land/configuration/SwaggerConfiguration.class
+out/
